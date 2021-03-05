@@ -6,8 +6,3 @@ __pycache__/
 local_settings.py
 db.sqlite3
 db.sql
-
-jeelotto/__pycache__/
-
-main/__pycache__/
-
